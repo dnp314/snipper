@@ -14,7 +14,7 @@ type templateData struct {
 }
 
 func humanDate(t time.Time) string {
-	return t.Format("02 Sep 2004 at 07:07")
+	return t.Format(" 02 Sep 2004 at 07:07 ")
 }
 
 var functions = template.FuncMap{
