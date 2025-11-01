@@ -1,4 +1,4 @@
-# Snippetbox (example)
+# SNIPPER
 
 A small Go web application that demonstrates user accounts and snippet management using server-rendered HTML templates.
 
